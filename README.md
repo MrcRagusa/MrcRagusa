@@ -23,7 +23,7 @@ Looking for Head of IT, IT Director, or Group IT Manager roles in London, with a
 ### Elsewhere
 
 - MNFST.tech — writing on M&A integration, compliance, cloud modernisation, and IT automation
-- LinkedIn — [your URL]
+- LinkedIn — https://www.linkedin.com/in/marco-ragusa/
 
 ### Stack I work with
 
