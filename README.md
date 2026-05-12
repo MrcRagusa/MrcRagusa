@@ -1,6 +1,6 @@
 ## Marco Ragusa
 
-IT & Cybersecurity Manager based in London. Eight years across IT operations, M&A integration, and multi-site EMEA leadership.
+Technology Leader based in London. Eight years across IT operations, M&A integration, and multi-site EMEA leadership.
 
 ### What I do
 
